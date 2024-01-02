@@ -1,4 +1,4 @@
-package src.poo.hash_equals;
+package src.generics.hash_equals;
 
 public class Program {
     public static void main(String[] args) {

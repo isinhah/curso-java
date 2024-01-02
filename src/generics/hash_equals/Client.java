@@ -1,4 +1,4 @@
-package src.poo.hash_equals;
+package src.generics.hash_equals;
 
 import java.util.Objects;
 
